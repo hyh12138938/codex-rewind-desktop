@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "codex_rewind_desktop": {
+      "command": "python",
+      "args": [
+        "C:/path/to/codex-rewind-desktop/desktop.py",
+        "--mcp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "codex-rewind-local",
+  "owner": {"name": "Local workspace"},
+  "plugins": [{
+    "name": "codex-rewind-desktop",
+    "source": "./",
+    "description": "Local Codex desktop rewind and redo"
+  }]
+}

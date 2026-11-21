@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.mcp.json
+work/
+outputs/
+evidence*/
+*.log
+state.json
+native-connection.json
+native.stop

@@ -1,0 +1,21 @@
+{
+  "name": "codex-rewind-desktop",
+  "version": "0.2.0",
+  "description": "Local Codex desktop conversation and file rewind with redo, previews and durable snapshots.",
+  "author": {
+    "name": "Local workspace"
+  },
+  "license": "MIT",
+  "interface": {
+    "displayName": "Codex Rewind Desktop",
+    "shortDescription": "聊天和文件回退，以及撤销回退",
+    "longDescription": "本地 Codex 桌面回复操作栏回退图标，自动回复快照、文件恢复与撤销回退。使用 NATIVE_START.cmd 启动增强窗口。",
+    "developerName": "Local workspace",
+    "category": "Developer tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}
